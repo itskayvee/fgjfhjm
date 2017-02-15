@@ -1,0 +1,41 @@
+@media screen and (max-width:800px){
+#wrapper{ width:100%; }
+#top_menu{ width:800px;position: relative; }
+#menu_left{ width: 800px }
+}
+@media screen and (max-width:600px){
+#top_menu{ width:100% }
+#top_menu ul{ width:100% }
+#menu_left{ width: 100% }
+#Upload{ margin: 0px 0px 0px 130px; }
+#tesad{width:130px}
+#bsap_1294037{margin: 10px 0 0 -1px;}
+#logo{width: 450px;}
+}
+
+@media screen and (max-width:580px){
+#logo{ padding-left: 0 }
+#Upload{ margin: 0}
+#tesad{width:100%;position:relative;margin: 0px 5px;}
+#bsap_1294037{ margin: 10px auto;width: 468px; }
+.ctextfooter{ padding: 5px;margin:10px auto;width:90% }
+}
+@media screen and (max-width:480px){
+#top_menu{ width:480px }
+.inputbox{ width:82% }
+#bsap_1294037{margin: 10px 0 0 0px;}
+#logo{ margin: 25px 0 0 0;text-align: center;}
+#logo img{margin: 10px 0;}
+#links{ margin: 5px 10px 5px 0; }
+#clinks{ margin: 5px auto; }
+.ctextfooter a{ margin:0 5px }
+#doUP{ top: 35px; }
+}
+
+@media screen and (max-width:388px){
+#logo{ width: 100%; }
+#logo img{ width: 90%; margin: 10px 0;}
+#top_menu{ width:100% }
+#bsap_1294037{display:none !important;}
+#bsap_1277740{width:260px;margin:10px auto}
+}
